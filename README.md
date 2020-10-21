@@ -1,4 +1,4 @@
-# fibonacci_clock
+# fibonacci-clock
 This repository provides code to run your own nerdy fibonacci clock.
 
 Besides the .ino file you need to have the following libraries installed: 
